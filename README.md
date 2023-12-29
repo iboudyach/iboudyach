@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwakeupcoders.medium.com%2Flearn-html-c28fb7eaa9d9&psig=AOvVaw01WvrgqMADFU43sFYJrHOT&ust=1703973627679000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCYu8nStYMDFQAAAAAdAAAAABAD))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://miro.medium.com/v2/resize:fit:640/format:webp/0*2blaR2l8ZqJ-HAaV.gif))](https://rishavchanda.io)
 <h1 align="center">Greetings 👋, I'm Ilyass Boudyach</h1>
 <h3 align="center">A front-end student from Morocco.</h3>
 
