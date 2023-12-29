@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://miro.medium.com/v2/resize:fit:640/format:webp/0*2blaR2l8ZqJ-HAaV.gif))](https://rishavchanda.io)
+[![MasterHead][([https://1.bp.blogspot.com/-7A4WynwLsM...](https://miro.medium.com/v2/resize:fit:640/format:webp/0*2blaR2l8ZqJ-HAaV.gif))]](https://miro.medium.com/v2/resize:fit:640/format:webp/0*2blaR2l8ZqJ-HAaV.gif)(https://rishavchanda.io)
 <h1 align="center">Greetings 👋, I'm Ilyass Boudyach</h1>
 <h3 align="center">A front-end student from Morocco.</h3>
 
